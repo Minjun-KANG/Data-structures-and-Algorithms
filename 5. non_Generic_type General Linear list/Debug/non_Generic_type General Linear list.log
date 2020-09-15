@@ -1,0 +1,18 @@
+﻿  Basic_oper.c
+c:\users\ansal\onedrive\desktop\source code\c\2020\non_generic_type general linear list\basic_oper.c(79): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\ansal\onedrive\desktop\source code\c\2020\non_generic_type general linear list\basic_oper.c(80): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\ansal\onedrive\desktop\source code\c\2020\non_generic_type general linear list\basic_oper.c(81): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\ansal\onedrive\desktop\source code\c\2020\non_generic_type general linear list\basic_oper.c(154): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\ansal\onedrive\desktop\source code\c\2020\non_generic_type general linear list\basic_oper.c(234): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: 'fscanf' 선언을 참조하십시오.
+c:\users\ansal\onedrive\desktop\source code\c\2020\non_generic_type general linear list\basic_oper.c(235): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: 'fscanf' 선언을 참조하십시오.
+c:\users\ansal\onedrive\desktop\source code\c\2020\non_generic_type general linear list\basic_oper.c(236): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: 'fscanf' 선언을 참조하십시오.
+c:\users\ansal\onedrive\desktop\source code\c\2020\non_generic_type general linear list\basic_oper.c(37): warning C4715: 'insert_Node': 모든 제어 경로에서 값을 반환하지는 않습니다.
+c:\users\ansal\onedrive\desktop\source code\c\2020\non_generic_type general linear list\basic_oper.c(239): warning C4715: 'get_data': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  non_Generic_type General Linear list.vcxproj -> C:\Users\ansal\OneDrive\Desktop\Source code\C\2020\non_Generic_type General linear list\Debug\non_Generic_type General Linear list.exe
