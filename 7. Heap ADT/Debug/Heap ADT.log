@@ -1,0 +1,8 @@
+﻿  Basic.cpp
+  Delete.cpp
+  Insert.cpp
+  main.cpp
+  print.cpp
+c:\users\ansal\onedrive\desktop\source code\c\2020\heap adt\print.cpp(75): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  Heap ADT.vcxproj -> C:\Users\ansal\OneDrive\Desktop\Source code\C\2020\Heap ADT\Debug\Heap ADT.exe
